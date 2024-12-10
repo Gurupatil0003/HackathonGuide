@@ -86,6 +86,58 @@ AR is revolutionizing the way users interact with digital content in the real wo
 
 ---
 
+## **6. AI (Artificial Intelligence) – Building Intelligent Systems**
+
+AI is the simulation of human intelligence processes by machines, especially computer systems. It involves learning, reasoning, and self-correction. Learning AI can open doors in numerous industries like healthcare, finance, and robotics.
+
+### 🛤️ **AI Roadmap**  
+- [AI Roadmap (GitHub)](https://roadmap.sh/ai-engineer)
+
+### 📚 **Courses & Tutorials**  
+- [Elements of AI](https://www.elementsofai.com/) – Free introductory course on AI.
+- [AI For Everyone (Coursera)](https://www.coursera.org/learn/ai-for-everyone) – Learn the basics of AI and its applications.
+
+---
+
+## **7. Data Science – Extracting Insights from Data**
+
+Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. Data scientists use techniques from statistics, machine learning, and computer science.
+
+### 🛤️ **Data Science Roadmap**  
+- [Data Science Roadmap (GitHub)](https://roadmap.sh/ai-data-scientist)
+
+### 📚 **Courses & Tutorials**  
+- [Data Science MicroMasters (edX)](https://www.edx.org/micromasters/uc-san-diegos-data-science)  
+- [Data Science Specialization (Coursera)](https://www.coursera.org/specializations/jhu-data-science)
+
+---
+
+## **8. Natural Language Processing (NLP) – Understanding Human Language**
+
+NLP enables machines to understand, interpret, and generate human language. It's widely used in chatbots, sentiment analysis, translation services, and more.
+
+### 🛤️ **NLP Roadmap**  
+- [NLP Roadmap (GitHub)](https://github.com/keon/awesome-nlp)
+
+### 📚 **Courses & Tutorials**  
+- [Natural Language Processing with Deep Learning in Python (Udemy)](https://www.udemy.com/course/natural-language-processing-with-deep-learning-in-python/)  
+- [Stanford NLP (YouTube)](https://www.youtube.com/playlist?list=PLoROMvoz8oKpe9NrkRqlu-XYNfttcgRWd)
+
+---
+
+## **9. Computer Vision – Enabling Machines to See**
+
+Computer Vision is a field that enables machines to interpret and make decisions based on visual data. It’s used in applications like face recognition, image analysis, and self-driving cars.
+
+### 🛤️ **Computer Vision Roadmap**  
+- [Computer Vision Roadmap (GitHub)](https://github.com/owent-utils/Computer-Vision-Roadmap)
+
+### 📚 **Courses & Tutorials**  
+- [Computer Vision Specialization (Coursera)](https://www.coursera.org/specializations/computer-vision)  
+- [Deep Learning for Computer Vision (Udemy)](https://www.udemy.com/course/deep-learning-for-computer-vision/)
+
+---
+
 ## 🎓 **Why Learn These Technologies?**
 
 1. **React** is used by top companies like Facebook, Instagram, and Airbnb for building dynamic UIs, making it a must-learn for front-end developers.
