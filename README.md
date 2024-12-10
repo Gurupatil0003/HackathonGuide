@@ -1,4 +1,4 @@
-# 🚀 Comprehensive Learning Resources for React, Python, Generative AI, RAG, and AR
+# 🚀Road Maps
 
 Whether you're a beginner or experienced developer, these roadmaps, courses, and tutorials will help you master key technologies that are shaping the future of software development and AI. Dive into **React**, **Python**, **Generative AI (Gen AI)**, **Retrieval-Augmented Generation (RAG)**, and **Augmented Reality (AR)** with the best resources available.
 
